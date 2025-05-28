@@ -1,0 +1,2 @@
+google_index,page_rank,domain_age,nb_hyperlinks,nb_qm,domain_in_title,nb_eq,length_hostname,longest_word_path,tld_in_subdomain,ratio_digits_host,nb_www,ip,shortest_word_host,ratio_digits_url,nb_slash,length_url,longest_words_raw,prefix_suffix,nb_dots,phish_hints,ratio_extHyperlinks,URL,Label,prob_phishing,prediccion,prediccion_texto
+1,0,52,0,0,0,0,120,0,0,0.0583333333333333,0,0,2,0.0546875,3,128,35,0,10,0,0,http://signin.eday.co.uk.ws.edayisapi.dllsign.inusingsslpuseridcopartnerid2siteid.zdfxx949xyss1pnbh0soabfdzgdh2kppnu.reippl.com/,0,0.9912708,1,Phishing
